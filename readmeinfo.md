@@ -13,6 +13,7 @@
 - 🛒 Shop with five upgrades.
 - 📈 Cookies per second and per click tracking.
 - 💾 Saves progress automatically.
+- ℹ️ Click the .txt file for the code
 - 🛠️ **Currently in Beta!**  
   ![Beta Logo](/mnt/data/IMG_1771-removebg-preview.svg)
 
